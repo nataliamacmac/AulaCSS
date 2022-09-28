@@ -1,6 +1,6 @@
-# Primeiras Aulas HTML/CSS
+# AulaCSS
 
-Primeiras aulas em HTML e CSS.
+Primeiros conceitos em HTML e CSS
 
 ## Feito com
 
